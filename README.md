@@ -226,7 +226,6 @@ Combination 5: ['01001', '02005', '02021', '02041', '02043'], 183 utterances
 - Speaker ID: 02021, Gender: Male, Score: 8.50, First-year
 
 
-Given the relatively small corpus size, we implement 5-fold cross-validation where each test set serves as a validation fold. This approach maximizes data utilization while ensuring robust model evaluation across diverse speaker demographics and proficiency levels.
 
 
 ## Licensing

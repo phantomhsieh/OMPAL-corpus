@@ -2,7 +2,7 @@
 
 ## Overview
 
-The OMAPL Corpus is a comprehensive Mandarin pronunciation assessment dataset comprising **82** Mandarin utterances from native speakers and **1,768** Mandarin utterances from French L1 speakers learning Mandarin. Each utterance has been meticulously annotated by four experts with professional Mandarin teaching experience at both the word and sentence levels.
+The OMPAL Corpus is a comprehensive Mandarin pronunciation assessment dataset comprising **82** Mandarin utterances from native speakers and **1,768** Mandarin utterances from French L1 speakers learning Mandarin. Each utterance has been meticulously annotated by four experts with professional Mandarin teaching experience at both the word and sentence levels.
 #### Link: https://www.isca-archive.org/interspeech_2025/hsieh25b_interspeech.html
 
 

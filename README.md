@@ -1,4 +1,4 @@
-# OMAPL Corpus
+# OMPAL Corpus
 
 ## Overview
 
